@@ -76,6 +76,15 @@ gap:32px;
 color: #E5E7EB;
 }
 
+.one-button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px 40px;
+}
+
 .main-image {
     width:500px;
     height:300px;
